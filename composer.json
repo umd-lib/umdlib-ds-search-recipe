@@ -1,0 +1,20 @@
+{
+    "name": "umd-lib/umd_libraries_search",
+    "type": "drupal-recipe",
+    "description": "Basic needs and structure for headless search.",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/umd-lib/",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/umd-lib/",
+        "source": "https://github.com/umd-lib/"
+    },
+    "require": {
+        "drupal/search_api": "^1.38",
+        "drupal/search_api_solr": "^4.3",
+        "drupal/facets": "^3.0",
+        "drupal/search_api_decoupled": "^1.0@alpha",
+    }
+}
+

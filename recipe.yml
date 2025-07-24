@@ -7,5 +7,5 @@ install:
   - search_api_solr
   - facets
   - search_api_decoupled
-  - vite_react_generator
+  - search_web_components
 

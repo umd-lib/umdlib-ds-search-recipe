@@ -7,5 +7,4 @@ install:
   - search_api_solr
   - facets
   - search_api_decoupled
-  - search_web_components
 
